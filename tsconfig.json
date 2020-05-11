@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "lib": ["dom", "ESNext"],
+    "module": "commonjs",
+    "target": "es6",
+    "allowJs": true,
+    "esModuleInterop": true
+  }
+}
